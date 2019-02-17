@@ -1,0 +1,29 @@
+#highlights{
+  background-color: light gray;
+
+}
+#highlights h1 {
+  text-align: center;
+  font-size: 70px;
+}
+#highlights h2 {
+  text-align: center;
+  font-size: 30px;
+  padding-bottom: 40px;
+}
+.image1{
+  float: left;
+}
+.interests {
+clear: both;
+}
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 1.1em;
+  color: black;
+  background-color: green;
+h1, h2, h3, h4 {
+  font-family: Bree serif;
+  color: dark gray !important;
+}
