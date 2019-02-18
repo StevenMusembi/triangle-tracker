@@ -1,9 +1,12 @@
 body {
-  background-color: blue;
+  background-color:
 
 }
 h1 {
   text-align: center;
   color: black;
   text-shadow: 3px 3px
+}
+div {
+  page-break-inside: avoid; 
 }
