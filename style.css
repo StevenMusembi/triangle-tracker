@@ -1,6 +1,6 @@
 body {
   background-color: blue;
-
+  background-image: image(images/mkt.jpg);
 }
 h1 {
   text-align: center;
