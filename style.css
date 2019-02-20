@@ -15,6 +15,7 @@ div {
   align-content: center;
   width: none;
   overflow: hidden;
+  padding-top: 50px
 }
 .para {
   text-align: center;
