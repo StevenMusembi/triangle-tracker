@@ -1,5 +1,5 @@
 body {
-  background-color: blue;
+  background-color: gray;
   background-image: urls("images_mkt.jpg");
 }
 h1 {
@@ -16,6 +16,7 @@ div {
   width: none;
   overflow: hidden;
   padding-top: 50px
+
 }
 .para {
   text-align: center;
