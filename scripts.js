@@ -15,10 +15,6 @@ var triangleType = function(sideA, sideB,sideC){
     return "scalene";
   }
 };
-var is Triangle = function(sideA, sideB, sideC) {
+var isTriangle = function(sideA, sideB, sideC) {
   return sideA <=(sideB+sideC)&& sideB <=(sideC+sideA)&&sideC <=(sideA+sideB)
 };
-var sideA = ParseInt($("input#sideA").val());
-var sideB = ParseInt($("input#sideB").val());
-var sideC= ParseInt($("input#sideC").val());
-var result =triangle(sideA, sideB, sideC)
