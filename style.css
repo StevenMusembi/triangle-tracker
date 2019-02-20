@@ -13,6 +13,8 @@ div {
   font-family: sans-serif;
   border-width: thin;
   align-content: center;
+  width: none;
+  overflow: hidden;
 }
 .para {
   text-align: center;
