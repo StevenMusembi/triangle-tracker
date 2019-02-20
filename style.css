@@ -1,6 +1,6 @@
 body {
   background-color: blue;
-  background-image: image(images/mkt.jpg);
+  background-image: urls("images_mkt.jpg");
 }
 h1 {
   text-align: center;
@@ -18,5 +18,8 @@ div {
   text-align: center;
   font-style: normal;
   font-size: 40px;
+}
+p {
+  border-style: solid;
 
 }
