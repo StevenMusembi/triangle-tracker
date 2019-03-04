@@ -1,12 +1,11 @@
 body {
   background-color: gray;
-  background-image: urls("images_mkt.jpg");
+  background-image: url("");
 }
 h1 {
   text-align: center;
-  color: black;
+  color: white;
   text-shadow: 3px 3px
-  font-style: italic;
 }
 div {
   page-break-inside: avoid;
@@ -15,7 +14,7 @@ div {
   align-content: center;
   width: none;
   overflow: hidden;
-  padding-top: 50px
+  padding-top: 40px
 
 }
 .para {
@@ -25,5 +24,8 @@ div {
 }
 p {
   border-style: none;
-
+}
+h2 {
+  text-align: center;
+  font-style: italic;
 }
